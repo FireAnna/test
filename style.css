@@ -37,3 +37,7 @@ img {
     display: flex;
     justify-content: center;
 }
+.eat {
+    color: rgb(28, 192, 75);
+    font-size: 50px;
+}
